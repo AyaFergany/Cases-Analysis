@@ -9,6 +9,7 @@ After that I used Power BI DAX for analysis,
 
 
 Complete healthcare project and used
+
 -Column chart 
 
 -Bar Chart
