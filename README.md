@@ -1,5 +1,5 @@
 # Cases-Analysis
-٢٣ دقيقة • تم التحرير •
+
 My dashboard uses Power BI "Covid Cases Analysis"
 Steps I followed.
 
@@ -9,11 +9,18 @@ After that I used Power BI DAX for analysis,
 
 
 Complete healthcare project and used
--Column chart
+-Column chart 
+
 -Bar Chart
+
 -donut chart
+
 -Slicer
+
 -Measures
+
 -Treemap
+
 -Matrix
+
 -Pie Chart
