@@ -20,7 +20,7 @@ Complete healthcare project and used
 
 - Measures
 
--Treemap
+- Treemap
 
 - Matrix
 
