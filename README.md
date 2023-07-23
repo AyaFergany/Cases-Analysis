@@ -10,18 +10,18 @@ After that I used Power BI DAX for analysis,
 
 Complete healthcare project and used
 
--Column chart 
+- Column chart 
 
--Bar Chart
+- Bar Chart
 
--donut chart
+- Donut chart
 
--Slicer
+- Slicer
 
--Measures
+- Measures
 
 -Treemap
 
--Matrix
+- Matrix
 
--Pie Chart
+- Pie Chart
